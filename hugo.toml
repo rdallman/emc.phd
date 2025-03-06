@@ -1,4 +1,4 @@
-baseurl = "https://emc.phd/"
+baseurl = "http://emc.phd/"
 languageCode = "en-us"
 theme = "re-terminal"
 pagination.pagerSize = 5
