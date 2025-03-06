@@ -1,0 +1,19 @@
+{{ define "main" }}
+  <div style="display: flex; align-items: center;">
+    <!-- Left Side: Image -->
+    <div style="flex: 1; padding-right: 20px;">
+      <img src="/images/profile.jpeg" alt="My Image" style="max-width: 100%; height: auto; border-radius: 10px;">
+    </div>
+
+    <!-- Right Side: Text from content/index.md -->
+    <div style="flex: 2;">
+      {{ with .Site.GetPage "page" "index" }}
+        <h1>{{ .Title }}</h1>
+        <p>{{ .Description }}</p>
+        {{ .Content }}
+      {{ else }}
+        <p>No content found. Create content/index.md</p>
+      {{ end }}
+    </div>
+  </div>
+{{ end }}
