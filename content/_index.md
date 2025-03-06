@@ -1,6 +1,5 @@
 ---
 title: "Emily (Em) Coombes"
-type: "page"
 ---
 
 __feminist sociologist researching networked movements__

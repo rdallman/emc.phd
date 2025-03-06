@@ -1,7 +1,6 @@
 ---
 title: "About me"
 description: ""
-type: "page"
 readingTime: false
 ---
 

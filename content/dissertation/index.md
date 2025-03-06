@@ -1,6 +1,6 @@
 ---
 title: "My Dissertation Research"
-type: "page"
+draft: false
 ---
 
 ![me so pretty](/images/dissertation.png)

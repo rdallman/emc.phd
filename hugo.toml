@@ -1,6 +1,6 @@
-baseurl = "https://emc.phd"
+baseurl = "https://emc.phd/"
 languageCode = "en-us"
-# theme = "hugo-theme-re-terminal"
+theme = "re-terminal"
 pagination.pagerSize = 5
 
 [params]
@@ -38,25 +38,3 @@ pagination.pagerSize = 5
     identifier = "cv"
     name = "CV"
     url = "/uploads/cv.pdf"
-
-
-# Only for demo deploy perpous
-[module]
-  [[module.mounts]]
-    source = 'demoSite/content'
-    target = 'content'
-  [[module.mounts]]
-    source = 'demoSite/static'
-    target = 'static'
-  [[module.mounts]]
-    source = 'static'
-    target = 'static'
-  [[module.mounts]]
-    source = 'layouts'
-    target = 'layouts'
-  [[module.mounts]]
-    source = 'demoSite/layouts'
-    target = 'layouts'
-  [[module.mounts]]
-    source = 'archetypes'
-    target = 'archetypes'
