@@ -1,7 +1,6 @@
 baseurl = "https://emc.phd/"
 languageCode = "en-us"
 theme = "re-terminal"
-pagination.pagerSize = 5
 
 [params]
   mainSections = []
