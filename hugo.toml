@@ -1,6 +1,7 @@
 baseurl = "https://emc.phd/"
 languageCode = "en-us"
 theme = "re-terminal"
+relativeURLs = true
 
 [params]
   mainSections = []
