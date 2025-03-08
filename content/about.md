@@ -36,9 +36,9 @@ While pursuing my PhD in Sociology I’ve worked as a teaching & research gradua
 
 During my PhD grad career I also worked as the north american correspondent @ [the global network of sex work projects], community outreach lead for the las vegas sex worker contingent @ [women’s march], a COVID-contact tracer @ unlv public health, as well as the resident movement scholar and community researcher at @ [hacking//hustling].
 
-You can read my co-authored report on shadowbanning with hacking//hustling collective members [“Posting Into the Void” (2020)]. 
+You can read my co-authored report on shadowbanning with hacking//hustling collective members here: [“Posting Into the Void” (2020)].
 
-My academic (aka “peer-reviewed”) work is published in Porn Studies (YEAR) and Disability Studies Quarterly (DSQ) (2022). I am actively preparing journal paper submissions based on my dissertation, an in-depth analysis of the 2018 #LetUsSurvive campaign launched against SESTA/FOSTA. If you’d like to read my M.A. thesis paper about content analysis of #LetUsSurvive on Twitter, email me and I’ll send you a copy. :) To read a little bit about my M.A./PhD case study click here. (should this just link to survivorsagainstSESTA.com?)
+My academic (aka “peer-reviewed”) work is published in Porn Studies (2020) and Disability Studies Quarterly (DSQ) (2022). I am actively preparing journal paper submissions based on my dissertation, an in-depth analysis of the 2018 #LetUsSurvive campaign launched against SESTA/FOSTA. If you’d like to read my M.A. thesis paper about content analysis of #LetUsSurvive on Twitter, email me and I’ll send you a copy. :) To read a little bit about my M.A./PhD case study click [here](/dissertation).
 
 My public-facing writing includes bylines @ [the nation] (2021) and [huffington post] (2016). I also co-published the [Sex Positive Manifesto for Social Media] (2022) as an extension of a virtual community lab on sexual content moderation at [RightsCon 2021]. 
 
@@ -57,7 +57,7 @@ I (mostly) identify as a public and community-based scholar-organizer-researcher
 [unlv soc]:https://www.unlv.edu/sociology
 [igi]:https://www.unlv.edu/igi
 [root cause]:https://rootcause.org
-[barcc]:https://barcc.orgo
+[barcc]:https://barcc.org
 [pplm]:https://www.plannedparenthood.org/planned-parenthood-massachusetts
 [Boston University’s Faculty of Computing & Data Sciences]:https://www.bu.edu/cds-faculty/
 [RightsCon Global]:https://www.rightscon.org
